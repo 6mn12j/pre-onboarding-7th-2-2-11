@@ -103,8 +103,6 @@
 ### 프로젝트 소개
 ![프리온보딩-2-2](https://user-images.githubusercontent.com/61973070/200179657-cd0a6144-4de7-40c3-94c8-7998654a3428.gif)
 
-![프리온보딩-2-2](https://user-images.githubusercontent.com/61973070/200179657-cd0a6144-4de7-40c3-94c8-7998654a3428.gif)
-
 ## 리덕스
 
 - 광고관리의 광고들을 관리하는 `adverTisementsReducer`
